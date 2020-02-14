@@ -6,30 +6,19 @@ They just give me a text like this :
 
 
 Orson Milka Iddins
-
 Erna Dorey Battelle
-
 Flori Chaunce Franzel
-
 Odetta Sue Kaspar
-
 Roy Ketti Kopfen
-
 Madel Bordie Mapplebeck
-
 Selle Bellison
-
 Leonerd Adda Michell Monaghan
-
 Debra Micheli
-
 Halley Annakin
-
 Leonerd Adda Micheli Monaghan
-
 Avie Annakin
 
-And want the result of sorted be like this :
+## And want the result of sorted be like this :
 
 Avie Annakin
 Halley Annakin
