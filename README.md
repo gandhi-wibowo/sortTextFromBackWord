@@ -2,9 +2,9 @@
 
 Someone ask to me, how to sort some line text by alphabetic.
 
-They just give me a text like this : 
+## They just give me a text like this : 
 
-
+```
 Orson Milka Iddins
 Erna Dorey Battelle
 Flori Chaunce Franzel
@@ -17,9 +17,10 @@ Debra Micheli
 Halley Annakin
 Leonerd Adda Micheli Monaghan
 Avie Annakin
+```
 
 ## And want the result of sorted be like this :
-
+```
 Avie Annakin
 Halley Annakin
 Erna Dorey Battelle
@@ -32,7 +33,7 @@ Madel Bordie Mapplebeck
 Debra Micheli
 Leonerd Adda Micheli Monaghan
 Leonerd Adda Michell Monaghan
+```
 
-
-This is bad algorithm at all.
-But maybe sometime i will fix the algorithm.
+> This is bad algorithm at all.<br>
+> But maybe sometime i will fix the algorithm.
